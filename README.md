@@ -34,3 +34,15 @@ The game includes dynamic movement mechanics, boss attack systems, sound effects
 * Object-Oriented Programming (OOP)
 ## Gameplay Mechanics
 ### Player Abilities
+* Move left and right
+* Jump between platforms
+* Use double jump power-up
+* Collect shields for temporary protection
+* Use magnet power-up to attract nearby items
+### Enemy System
+* Demon boss continuously chases the player
+* Fire laser attacks with warning indicators
+* Stunning effects when hit by lasers
+## Control
+| Key | Action |
+|-----|--------|
