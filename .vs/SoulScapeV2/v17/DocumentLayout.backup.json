@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAM MING KANG\\Desktop\\utem\\STUDY NOTE_SEM 3\\BITE2513 GAME ENGINE DEVELOPMENT 1\\Programming C\u002B\u002B\\SoulScapeV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFB038E-FF0C-47F1-92E0-9D642A55A3CE}|SoulScapeV2\\SoulScapeV2.vcxproj|C:\\Users\\LAM MING KANG\\Desktop\\utem\\STUDY NOTE_SEM 3\\BITE2513 GAME ENGINE DEVELOPMENT 1\\Programming C\u002B\u002B\\SoulScapeV2\\SoulScapeV2\\SoulScapeV2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDFB038E-FF0C-47F1-92E0-9D642A55A3CE}|SoulScapeV2\\SoulScapeV2.vcxproj|solutionrelative:SoulScapeV2\\SoulScapeV2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoulScapeV2.cpp",
+              "DocumentMoniker": "C:\\Users\\LAM MING KANG\\Desktop\\utem\\STUDY NOTE_SEM 3\\BITE2513 GAME ENGINE DEVELOPMENT 1\\Programming C\u002B\u002B\\SoulScapeV2\\SoulScapeV2\\SoulScapeV2.cpp",
+              "RelativeDocumentMoniker": "SoulScapeV2\\SoulScapeV2.cpp",
+              "ToolTip": "C:\\Users\\LAM MING KANG\\Desktop\\utem\\STUDY NOTE_SEM 3\\BITE2513 GAME ENGINE DEVELOPMENT 1\\Programming C\u002B\u002B\\SoulScapeV2\\SoulScapeV2\\SoulScapeV2.cpp",
+              "RelativeToolTip": "SoulScapeV2\\SoulScapeV2.cpp",
+              "ViewState": "AgIAAGEOAAAAAAAAAAAAAKMPAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-27T07:01:24.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
