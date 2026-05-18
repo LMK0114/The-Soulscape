@@ -69,6 +69,7 @@ The game includes dynamic movement mechanics, boss attack systems, sound effects
 
 ### Gameplay
 <img width="994" height="737" alt="Screenshot 2026-05-18 161728" src="https://github.com/user-attachments/assets/215a28c9-4bbb-4901-b3ef-31ae634b60f2" />
+
 ## Authors
 * LAM MING KANG
 * LOW WEN JUN
