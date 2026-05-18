@@ -4,3 +4,5 @@ A 2D vertical platformer built with C++ and OpenGL, featuring power-up mechanics
 SoulScapeV2 is an endless climbing platformer game developed using C++ and OpenGL/GLUT. Players must continuously jump across platforms, avoid deadly laser attacks, and collect power-ups to survive longer and achieve the highest distance possible.
 
 The game includes dynamic movement mechanics, boss attack systems, sound effects, particle effects, and multiple power-ups that enhance gameplay variety and replayability.
+## Features
+*Endless vertical climbing gameplay
