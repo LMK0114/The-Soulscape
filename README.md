@@ -51,16 +51,13 @@ The game includes dynamic movement mechanics, boss attack systems, sound effects
 | Up Arrow | Jump |
 | Escape | Pause Game |
 ## Project Structure
-├── SoulScapeV2.cpp
-├── SoulScapeV2.sln
-├── sounds/
-├── effects/
-├── music/
-└── ui/
-└── README.md
-├── main.cpp
-├── leaderboard.txt
-└── README.md
+|- SoulScapeV2.cpp
+|- SoulScapeV2.sln
+|- sounds/
+|- effects/
+|- music/
+|- ui/
+|_ README.md
 
 ## Installation
 1. Open the project using Visual Studio.
