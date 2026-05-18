@@ -52,17 +52,14 @@ The game includes dynamic movement mechanics, boss attack systems, sound effects
 | Escape | Pause Game |
 ## Project Structure
 ├── SoulScapeV2.cpp
-
 ├── SoulScapeV2.sln
-
 ├── sounds/
-
-│   ├── effects/
-
-│   ├── music/
-
-│   └── ui/
-
+├── effects/
+├── music/
+└── ui/
+└── README.md
+├── main.cpp
+├── leaderboard.txt
 └── README.md
 
 ## Installation
