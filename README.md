@@ -8,11 +8,11 @@ The game includes dynamic movement mechanics, boss attack systems, sound effects
 * Endless vertical climbing gameplay
 * Smooth platforming mechanics
 * Multiple power-up systems:
-** Speed Boost
-** Double Jump
-** Shield
-* Slow Time
-** Magnet
+  * Speed Boost
+  * Double Jump
+  * Shield
+  * Slow Time
+  * Magnet
 * Boss laser attack system
 * Warning indicators before laser attacks
 * Particle and visual effects
