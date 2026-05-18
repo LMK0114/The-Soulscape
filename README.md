@@ -23,3 +23,14 @@ The game includes dynamic movement mechanics, boss attack systems, sound effects
 * Breakable platforms
 * Score and distance tracking
 * Smooth animations and visual effects
+## Technologies Used
+* C++
+* OpenGL
+* GLUT
+* DirectSound API
+* Windows API
+* Vector Data Structure
+* File Handling
+* Object-Oriented Programming (OOP)
+## Gameplay Mechanics
+### Player Abilities
