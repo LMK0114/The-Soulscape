@@ -46,3 +46,7 @@ The game includes dynamic movement mechanics, boss attack systems, sound effects
 ## Control
 | Key | Action |
 |-----|--------|
+| A / Left Arrow | Move Left |
+| D / Right Arrow | Move Right |
+| Up Arrow | Jump |
+| Escape | Pause Game |
