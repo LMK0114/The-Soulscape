@@ -6,3 +6,20 @@ SoulScapeV2 is an endless climbing platformer game developed using C++ and OpenG
 The game includes dynamic movement mechanics, boss attack systems, sound effects, particle effects, and multiple power-ups that enhance gameplay variety and replayability.
 ## Features
 * Endless vertical climbing gameplay
+* Smooth platforming mechanics
+* Multiple power-up systems:
+** Speed Boost
+** Double Jump
+** Shield
+* Slow Time
+** Magnet
+* Boss laser attack system
+* Warning indicators before laser attacks
+* Particle and visual effects
+* Sound effect and background music system
+* Pause menu system
+* Game over and restart system
+* Randomized platform generation
+* Breakable platforms
+* Score and distance tracking
+* Smooth animations and visual effects
