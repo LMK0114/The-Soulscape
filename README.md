@@ -52,12 +52,19 @@ The game includes dynamic movement mechanics, boss attack systems, sound effects
 | Escape | Pause Game |
 ## Project Structure
 ├── SoulScapeV2.cpp
+
 ├── SoulScapeV2.sln
+
 ├── sounds/
+
 │   ├── effects/
+
 │   ├── music/
+
 │   └── ui/
+
 └── README.md
+
 ## Installation
 1. Open the project using Visual Studio.
 2. Make sure OpenGL and GLUT libraries are installed.
